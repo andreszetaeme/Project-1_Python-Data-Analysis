@@ -13,5 +13,5 @@ Client: Paris Bakery Event - Specifically, the online ticket sales department
 
 Client Request: Find out which channel performance is better, so that they can focus on it for the last sales period.
 
-Please, download the ipynb file and execute it on Google Colab -> https://colab.research.google.com/
+You can find the ipynb file [here](https://github.com/andreszetaeme/Project-1_Python-Data-Analysis/blob/main/Bakery_Fest_Digital_Marketing_Analysis.ipynb)
 There you will find all the process used to fulfill the client's request
